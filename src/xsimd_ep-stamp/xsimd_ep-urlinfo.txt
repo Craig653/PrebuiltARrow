@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/xtensor-stack/xsimd/archive/e916f3ab1bc513328b627df702226a1d1e2ae3a9.tar.gz'
+tag=''

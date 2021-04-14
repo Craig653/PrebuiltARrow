@@ -1,0 +1,29 @@
+-- Downloading...
+   dst='/home/pi/Code/arrow/cpp/src/e916f3ab1bc513328b627df702226a1d1e2ae3a9.tar.gz'
+   timeout='none'
+-- Using src='https://github.com/xtensor-stack/xsimd/archive/e916f3ab1bc513328b627df702226a1d1e2ae3a9.tar.gz'
+-- [download 100% complete]
+-- [download 6% complete]
+-- [download 7% complete]
+-- [download 13% complete]
+-- [download 20% complete]
+-- [download 24% complete]
+-- [download 29% complete]
+-- [download 35% complete]
+-- [download 36% complete]
+-- [download 46% complete]
+-- [download 48% complete]
+-- [download 53% complete]
+-- [download 60% complete]
+-- [download 68% complete]
+-- [download 99% complete]
+-- [download 100% complete]
+-- Downloading... done
+-- extracting...
+     src='/home/pi/Code/arrow/cpp/src/e916f3ab1bc513328b627df702226a1d1e2ae3a9.tar.gz'
+     dst='/home/pi/Code/arrow/cpp/src/xsimd_ep'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done

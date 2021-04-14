@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/miloyip/rapidjson/archive/1a803826f1197b5e30703afe4b9c0e7dd48074f5.tar.gz;https://github.com/ursa-labs/thirdparty/releases/download/latest/rapidjson-1a803826f1197b5e30703afe4b9c0e7dd48074f5.tar.gz'
+tag=''
